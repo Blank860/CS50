@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: The slowest real running time among the three sorting systems
+
+sort2 uses: Merge Sort
+
+How do you know?: The fastest real running time among the three sorting systems
+
+sort3 uses: Selection Sort
+
+How do you know?: Faster than sort1 but slower than sort2
