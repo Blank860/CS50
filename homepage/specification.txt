@@ -1,0 +1,29 @@
+HTML Tags Used:
+1. <html>
+2. <head>
+3. <body>
+4. <title>
+5. <h1>
+6. <p>
+7. <a>
+8. <ul>
+9. <li>
+10. <form>
+11. <input>
+12. <button>
+13. <img>
+14. <table>
+15. <tr>, <td>, <th>
+
+CSS Selectors & Properties:
+1. body - background-color, font-family
+2. h1 - color
+3. .navbar-brand - font-weight, font-size
+4. .nav-link.active - color, font-weight
+5. ul li - margin-bottom
+
+Bootstrap:
+Used Bootstrap navbar, table styling, and responsive layout via CDN.
+
+JavaScript:
+Used a script to display a thank-you message when a user subscribes to a newsletter.
